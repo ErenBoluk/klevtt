@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @klevtt
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on --
+- Hi, I’m Klev
+- I know C#, Phyton, JS and html & css
 - 📫 How to reach me --
 
 <!---
