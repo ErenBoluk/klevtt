@@ -3,7 +3,7 @@
 
 
   - Hi, I’m Klev
-  - I know C#, Phyton, JS and html & css
+  - I know C#, PHP, JS and html & css
   - You can reach me just send me text.
 
  
