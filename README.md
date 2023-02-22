@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **realklevtv@gmail.com**
 
-- ⚡ Fun fact **wölf**
+- ⚡ Fun fact **func fact i think there is no wölf race**
 
 
 <h3 align="left">Languages and Tools:</h3>
